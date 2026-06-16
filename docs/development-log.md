@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for semantic search
 
+## 2026-06-16 - Stage 10
+
+feat: add reporting view for answer drafting
+
