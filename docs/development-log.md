@@ -32,3 +32,7 @@ docs: add installation and usage documentation
 
 ci: add build and test workflow
 
+## 2026-06-16 - Stage 9
+
+feat: add validation rules for semantic search
+
